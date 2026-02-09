@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Chillin'",
+  "base_artist": "モジョ",
+  "createdAt": "2026-02-09T06:36:23.239997Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chillin' It",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/01_Chillin'_It_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm Chillin'",
+      "artist": "Game",
+      "has_synced": false,
+      "path": "select/02_I'm_Chillin'_Game.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chillin'",
+      "artist": "Modjo",
+      "has_synced": true,
+      "path": "select/03_Chillin'_Modjo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chillin' With You",
+      "artist": "Britney Spears feat. Jamie Lynn",
+      "has_synced": true,
+      "path": "select/04_Chillin'_With_You_Britney_Spears_feat._Jamie_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Just Chillin'",
+      "artist": "Crash Test Dummies",
+      "has_synced": true,
+      "path": "select/05_Just_Chillin'_Crash_Test_Dummies.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Just Chillin'",
+      "artist": "Crash Test Dummies Ellen Reid",
+      "has_synced": true,
+      "path": "select/06_Just_Chillin'_Crash_Test_Dummies_Ellen_Reid.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chillin' with You",
+      "artist": "Britney Spears feat. Jamie Lynn",
+      "has_synced": true,
+      "path": "select/07_Chillin'_with_You_Britney_Spears_feat._Jamie_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Here with Me - Chillin with the Family Mix",
+      "artist": "Dido",
+      "has_synced": true,
+      "path": "select/08_Here_with_Me_-_Chillin_with_the_Family_Mix_Dido.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Here With Me (Chillin With The Family Mix)",
+      "artist": "Dido",
+      "has_synced": true,
+      "path": "select/09_Here_With_Me_(Chillin_With_The_Family_Mix)_Dido.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Here With Me (Chillin' With The Family Mix)",
+      "artist": "Dido",
+      "has_synced": true,
+      "path": "select/10_Here_With_Me_(Chillin'_With_The_Family_Mix)_Dido.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Here With Me (Chillin' With the Family mix)",
+      "artist": "Dido",
+      "has_synced": false,
+      "path": "select/11_Here_With_Me_(Chillin'_With_the_Family_mix)_Dido.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chillin",
+      "artist": "Wale feat. Lady Gaga",
+      "has_synced": true,
+      "path": "select/12_Chillin_Wale_feat._Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chillin (Feat. Lady Gaga)",
+      "artist": "Wale",
+      "has_synced": false,
+      "path": "select/13_Chillin_(Feat._Lady_Gaga)_Wale.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Chillin'",
+      "artist": "Modjo",
+      "has_synced": true,
+      "path": "select/14_Chillin'_Modjo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chillin' With You",
+      "artist": "Britney Spears feat. Jamie Lynn Spears",
+      "has_synced": true,
+      "path": "select/15_Chillin'_With_You_Britney_Spears_feat._Jamie_Lynn_Spears.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Chillin'",
+      "artist": "Modjo",
+      "has_synced": true,
+      "path": "select/16_Chillin'_Modjo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "JoJo's Chillin",
+      "artist": "Killer Mike",
+      "has_synced": true,
+      "path": "select/17_JoJo's_Chillin_Killer_Mike.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Here with Me (Chillin with the Family Mix)",
+      "artist": "Dido",
+      "has_synced": true,
+      "path": "select/18_Here_with_Me_(Chillin_with_the_Family_Mix)_Dido.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Chillin' It",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/19_Chillin'_It_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I'm Chillin'",
+      "artist": "Kurtis Blow",
+      "has_synced": false,
+      "path": "select/20_I'm_Chillin'_Kurtis_Blow.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chillin'",
+      "artist": "Modjo",
+      "has_synced": false,
+      "path": "select/pl_01_Chillin'_Modjo.txt"
+    }
+  ]
+}
